@@ -13,25 +13,31 @@ Explore relationships between different variables for better insights
 
 🛠️ Technologies Used
 Python 
+
 Pandas – Data manipulation and analysis
+
 NumPy – Numerical computations
+
 Matplotlib & Seaborn – Data visualization
 
 📈 Key Features
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Visualizations like bar charts, histograms, and heatmaps
+
 Insight generation for HR and management decisions
 
 📁 Dataset
 The dataset contains employee-related information such as:
 
-Employee ID
-Age & Gender
-Department
-Salary
-Experience
-Performance Rating
+Employee ID, 
+Age & Gender, 
+Department, 
+Salary,
+Experience, 
+Performance Rating, 
 
 🚀 Outcome
 
