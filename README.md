@@ -4,8 +4,11 @@ This project focuses on analyzing employee data to extract meaningful insights t
 
 🔍 Project Objectives
 Analyze employee demographics such as age, gender, and department
+
 Evaluate salary distribution and compensation trends
+
 Identify patterns in employee performance and experience
+
 Explore relationships between different variables for better insights
 
 🛠️ Technologies Used
